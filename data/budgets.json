@@ -1,0 +1,12 @@
+[
+    {
+        "destination": "Dubai",
+        "home_currency": "NGN",
+        "destination_currency": "AED",
+        "amount": "500000",
+        "duration": 7,
+        "start_date": "2026-10-06",
+        "end_date": "2026-10-12",
+        "daily_limit": "71428.57"
+    }
+]
