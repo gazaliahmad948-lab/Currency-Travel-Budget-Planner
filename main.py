@@ -135,7 +135,12 @@ with tab3:
             expense_amount_text = st.text_input("Amount", value="5000")
         with col2:
             st.text_input("Expense currency", value=trip.home_currency, disabled=True)
-            expense_date = st.date_input("Expense date", value=date.today(), min_value=trip.start_date, max_value=trip.end_date)
+            expense_date = st.date_input(
+    "Expense date",
+    value=max(date.today(), trip.start_date),
+    min_value=trip.start_date,
+    max_value=trip.end_date
+)
 
         if st.button("Add Expense", type="primary"):
             try:

@@ -8,5 +8,115 @@
         "start_date": "2026-10-06",
         "end_date": "2026-10-12",
         "daily_limit": "71428.57"
+    },
+    {
+        "destination": "Dubai",
+        "home_currency": "NGN",
+        "destination_currency": "AED",
+        "amount": "500000",
+        "duration": 7,
+        "start_date": "2026-10-06",
+        "end_date": "2026-10-12",
+        "daily_limit": "71428.57"
+    },
+    {
+        "destination": "Saudi Arabia",
+        "home_currency": "NGN",
+        "destination_currency": "USD",
+        "amount": "500000",
+        "duration": 7,
+        "start_date": "2026-10-06",
+        "end_date": "2026-10-12",
+        "daily_limit": "71428.57"
+    },
+    {
+        "destination": "Saudi Arabia",
+        "home_currency": "NGN",
+        "destination_currency": "USD",
+        "amount": "5000000",
+        "duration": 7,
+        "start_date": "2026-10-06",
+        "end_date": "2026-10-12",
+        "daily_limit": "714285.71"
+    },
+    {
+        "destination": "Saudi Arabia",
+        "home_currency": "NGN",
+        "destination_currency": "USD",
+        "amount": "10000000",
+        "duration": 7,
+        "start_date": "2026-10-06",
+        "end_date": "2026-10-12",
+        "daily_limit": "1428571.43"
+    },
+    {
+        "destination": "Dubai",
+        "home_currency": "NGN",
+        "destination_currency": "AED",
+        "amount": "500000",
+        "duration": 7,
+        "start_date": "2026-12-25",
+        "end_date": "2026-12-31",
+        "daily_limit": "71428.57"
+    },
+    {
+        "destination": "Dubai",
+        "home_currency": "NGN",
+        "destination_currency": "AED",
+        "amount": "500000",
+        "duration": 7,
+        "start_date": "2026-12-25",
+        "end_date": "2026-12-31",
+        "daily_limit": "71428.57"
+    },
+    {
+        "destination": "Dubai",
+        "home_currency": "NGN",
+        "destination_currency": "AED",
+        "amount": "50000000",
+        "duration": 7,
+        "start_date": "2026-12-25",
+        "end_date": "2026-12-31",
+        "daily_limit": "7142857.14"
+    },
+    {
+        "destination": "Dubai",
+        "home_currency": "NGN",
+        "destination_currency": "AED",
+        "amount": "50000000",
+        "duration": 7,
+        "start_date": "2026-10-10",
+        "end_date": "2026-10-16",
+        "daily_limit": "7142857.14"
+    },
+    {
+        "destination": "Dubai",
+        "home_currency": "NGN",
+        "destination_currency": "AED",
+        "amount": "500000",
+        "duration": 7,
+        "start_date": "2026-10-06",
+        "end_date": "2026-10-12",
+        "daily_limit": "71428.57"
+    },
+    {
+        "destination": "Dubai",
+        "home_currency": "NGN",
+        "destination_currency": "AED",
+        "amount": "500000",
+        "duration": 7,
+        "start_date": "2026-12-25",
+        "end_date": "2026-12-31",
+        "daily_limit": "71428.57"
+    },
+    {
+        "destination": "Dubai",
+        "home_currency": "NGN",
+        "destination_currency": "AED",
+        "amount": "500000",
+        "duration": 7,
+        "start_date": "2026-12-23",
+        "end_date": "2026-12-29",
+        "daily_limit": "71428.57"
     }
 ]
